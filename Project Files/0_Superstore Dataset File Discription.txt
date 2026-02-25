@@ -1,15 +1,12 @@
-Superstore Dataset
+# Superstore Dataset
 A Popular Dataset that can be used for your Excel, Power BI & Tableau Project
 
-About Dataset
-The Superstore Sales Data dataset, available in an Excel format as "Superstore.xlsx," is a comprehensive collection of sales and customer-related information from a retail superstore. This dataset comprises* three distinct tables*, each providing specific insights into the store's operations and customer interactions.
+## About Dataset
+The Superstore Sales Data dataset, available on Kaggle in an Excel format as "Superstore.xlsx," is a comprehensive collection of sales and customer-related information from a retail superstore. This dataset comprises* three distinct tables*, each providing specific insights into the store's operations and customer interactions.
 
-About this file
-
+## About this file
 Suggest Edits
 The "Orders" table provides detailed information about sales orders, including customer details, product information, and sales performance.
-
 The "People" table appears to contain information about individuals or personnel, linked to specific regions.
-
-
 The "Returns" table tracks returned products and associates them with the original order.
+
