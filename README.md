@@ -19,3 +19,4 @@ The dataset was sourced from Kaggle and contains three related tables:
     +	Profit Margin
     +	Order Year
     +	Return Flag
+-   Final cleaned dataset structured as **Master Data**
