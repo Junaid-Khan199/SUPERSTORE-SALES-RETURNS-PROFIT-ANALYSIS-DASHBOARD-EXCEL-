@@ -55,3 +55,6 @@ The Excel dashboard includes:
 -	Manager accountability by region
 -	Yearly sales trend
 -	Interactive slicers: Category, Segment, Region, Year
+
+
+Figure 5 Overall Dashboard layout
