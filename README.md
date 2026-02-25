@@ -34,3 +34,5 @@ The following analyses were conducted using Pivot Tables:
 -	Return Rate Calculation
 -	Regional Performance by Manager
 -	Year-wise Sales Trend
+
+Figure 3 Pivot-based Business Analysis
