@@ -20,8 +20,8 @@ The dataset was sourced from Kaggle and contains three related tables:
     +	Order Year
     +	Return Flag
 -   Final cleaned dataset structured as **Master Data**
-![Figure 2&3: Cleaned Dataset After Calculate important Matrixes and Conditional Formatting.](https://github.com/Junaid-Khan199/SUPERSTORE-SALES-RETURNS-PROFIT-ANALYSIS-DASHBOARD-EXCEL-/blob/a9bce75b861f9a922bdc57c20d4be4575b71c4bf/Screenshoot/Figure%202_Cleaned%20Data.png)
-![Figure 2&3: Cleaned Dataset After Calculate important Matrixes and Conditional Formatting.](https://github.com/Junaid-Khan199/SUPERSTORE-SALES-RETURNS-PROFIT-ANALYSIS-DASHBOARD-EXCEL-/blob/8e78087dcac4b7f079d867a31a12948551a68754/Screenshoot/Figure%203_Cleaned%20Data%20%26%20New%20Calculated%20Columns.png)
+![Cleaned Dataset After Calculate important Matrixes and Conditional Formatting.](https://github.com/Junaid-Khan199/SUPERSTORE-SALES-RETURNS-PROFIT-ANALYSIS-DASHBOARD-EXCEL-/blob/a9bce75b861f9a922bdc57c20d4be4575b71c4bf/Screenshoot/Figure%202_Cleaned%20Data.png)
+![Cleaned Dataset After Calculate important Matrixes and Conditional Formatting.](https://github.com/Junaid-Khan199/SUPERSTORE-SALES-RETURNS-PROFIT-ANALYSIS-DASHBOARD-EXCEL-/blob/8e78087dcac4b7f079d867a31a12948551a68754/Screenshoot/Figure%203_Cleaned%20Data%20%26%20New%20Calculated%20Columns.png)
 *Figure 2&3: Cleaned Dataset After Calculate important Matrixes and Conditional Formatting.*
 
 ## Analysis Performed
@@ -34,5 +34,5 @@ The following analyses were conducted using Pivot Tables:
 -	Return Rate Calculation
 -	Regional Performance by Manager
 -	Year-wise Sales Trend
-
+![Pivot-based Business Analysis](https://github.com/Junaid-Khan199/SUPERSTORE-SALES-RETURNS-PROFIT-ANALYSIS-DASHBOARD-EXCEL-/blob/4d3641b926a83a6bedb0b96fb8d865f3cec1bbf0/Screenshoot/Figure%204_Pivot%20Tables.png)
 Figure 3 Pivot-based Business Analysis
