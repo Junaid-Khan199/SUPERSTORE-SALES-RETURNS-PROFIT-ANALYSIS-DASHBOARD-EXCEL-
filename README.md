@@ -55,6 +55,5 @@ The Excel dashboard includes:
 -	Manager accountability by region
 -	Yearly sales trend
 -	Interactive slicers: Category, Segment, Region, Year
-
-
-Figure 5 Overall Dashboard layout
+![Overall Dashboard layout](https://github.com/Junaid-Khan199/SUPERSTORE-SALES-RETURNS-PROFIT-ANALYSIS-DASHBOARD-EXCEL-/blob/6874f4b797e8a19cd4146e355e36bf87c3cf72df/Screenshoot/Figure%205_%20OverAll%20Dashboard%20Preview.png)
+*Figure 5 Overall Dashboard layout*
