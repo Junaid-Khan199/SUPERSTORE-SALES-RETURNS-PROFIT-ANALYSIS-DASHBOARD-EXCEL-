@@ -8,4 +8,4 @@ The dataset was sourced from Kaggle and contains three related tables:
 - People – Region-wise responsible managers
 
 ## Data Preparation & Cleaning
-![Raw Data Before Analysis](Figure1 Raw data.png)
+![Raw Data Before Analysis](Screenshoot/Figure 1_Raw Data.png)
