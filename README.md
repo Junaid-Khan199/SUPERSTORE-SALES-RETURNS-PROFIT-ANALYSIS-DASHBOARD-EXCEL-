@@ -22,4 +22,4 @@ The dataset was sourced from Kaggle and contains three related tables:
 -   Final cleaned dataset structured as **Master Data**
 ![Figure 2&3: Cleaned Dataset After Calculate important Matrixes and Conditional Formatting.](https://github.com/Junaid-Khan199/SUPERSTORE-SALES-RETURNS-PROFIT-ANALYSIS-DASHBOARD-EXCEL-/blob/a9bce75b861f9a922bdc57c20d4be4575b71c4bf/Screenshoot/Figure%202_Cleaned%20Data.png)
 ![Figure 2&3: Cleaned Dataset After Calculate important Matrixes and Conditional Formatting.](https://github.com/Junaid-Khan199/SUPERSTORE-SALES-RETURNS-PROFIT-ANALYSIS-DASHBOARD-EXCEL-/blob/8e78087dcac4b7f079d867a31a12948551a68754/Screenshoot/Figure%203_Cleaned%20Data%20%26%20New%20Calculated%20Columns.png)
-
+*Figure 2&3: Cleaned Dataset After Calculate important Matrixes and Conditional Formatting.*
