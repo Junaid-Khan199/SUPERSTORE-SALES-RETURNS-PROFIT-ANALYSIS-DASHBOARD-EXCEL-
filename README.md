@@ -35,4 +35,23 @@ The following analyses were conducted using Pivot Tables:
 -	Regional Performance by Manager
 -	Year-wise Sales Trend
 ![Pivot-based Business Analysis](https://github.com/Junaid-Khan199/SUPERSTORE-SALES-RETURNS-PROFIT-ANALYSIS-DASHBOARD-EXCEL-/blob/4d3641b926a83a6bedb0b96fb8d865f3cec1bbf0/Screenshoot/Figure%204_Pivot%20Tables.png)
-Figure 3 Pivot-based Business Analysis
+*Figure 4: Pivot-based Business Analysis*
+
+## Key Performance Indicators (KPIs) Performed:
+-	Total Sales: $2.29M
+-	Total Profit: $285K
+-	Total Quantity Sold: 37,785
+-	Total Orders: 9,978
+-	Average Profit Margin: 12%
+-	Return Rate: 8%
+
+## Dashboard Features
+The Excel dashboard includes:
+-	Category-wise performance charts
+-	Top products analysis
+-	Regional sales and profit comparison
+-	Segment performance breakdown
+-	Returns impact visualization
+-	Manager accountability by region
+-	Yearly sales trend
+-	Interactive slicers: Category, Segment, Region, Year
