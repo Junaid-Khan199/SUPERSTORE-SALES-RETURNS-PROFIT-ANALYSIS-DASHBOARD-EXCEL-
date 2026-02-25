@@ -11,4 +11,5 @@ The "Orders" table provides detailed information about sales orders, including c
 
 The "People" table appears to contain information about individuals or personnel, linked to specific regions.
 
+
 The "Returns" table tracks returned products and associates them with the original order.
