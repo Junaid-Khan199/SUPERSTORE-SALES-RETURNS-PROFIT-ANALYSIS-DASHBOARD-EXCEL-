@@ -20,3 +20,4 @@ The dataset was sourced from Kaggle and contains three related tables:
     +	Order Year
     +	Return Flag
 -   Final cleaned dataset structured as **Master Data**
+https://github.com/Junaid-Khan199/SUPERSTORE-SALES-RETURNS-PROFIT-ANALYSIS-DASHBOARD-EXCEL-/blob/8e78087dcac4b7f079d867a31a12948551a68754/Screenshoot/Figure%203_Cleaned%20Data%20%26%20New%20Calculated%20Columns.png
